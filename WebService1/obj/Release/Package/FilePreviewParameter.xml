@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="http://localhost:80/WebService1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\A\\Documents\\Visual\ Studio\ 2015\\Projects\\WebService1\\WebService1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\A\\Documents\\Visual\ Studio\ 2015\\Projects\\WebService1\\WebService1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

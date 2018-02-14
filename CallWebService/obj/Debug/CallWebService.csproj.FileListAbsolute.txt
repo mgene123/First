@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\bin\Debug\CallWebService.exe.config
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\bin\Debug\CallWebService.exe
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\bin\Debug\CallWebService.pdb
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.Form1.resources
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.Properties.Resources.resources
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.csproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.exe
+c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.pdb
