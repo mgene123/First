@@ -31,3 +31,36 @@ c:\users\a\documents\visual studio 2015\Projects\WebService1\WebService1\bin\Mic
 c:\users\a\documents\visual studio 2015\Projects\WebService1\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache
 c:\users\a\documents\visual studio 2015\Projects\WebService1\WebService1\obj\Debug\WebService1.dll
 c:\users\a\documents\visual studio 2015\Projects\WebService1\WebService1\obj\Debug\WebService1.pdb
+E:\MOTAZ\Git project\WebService1\WebService1\bin\ApplicationInsights.config
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\csc.exe
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\System.Collections.Immutable.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\System.Reflection.Metadata.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\vbc.exe
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\VBCSCompiler.exe
+E:\MOTAZ\Git project\WebService1\WebService1\bin\roslyn\VBCSCompiler.exe.config
+E:\MOTAZ\Git project\WebService1\WebService1\bin\WebService1.dll.config
+E:\MOTAZ\Git project\WebService1\WebService1\bin\WebService1.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\WebService1.pdb
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.DependencyCollector.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.Web.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.WindowsServer.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.ApplicationInsights.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.DependencyCollector.xml
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.Web.xml
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.AI.WindowsServer.xml
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.ApplicationInsights.xml
+E:\MOTAZ\Git project\WebService1\WebService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MOTAZ\Git project\WebService1\WebService1\obj\Debug\WebService1.dll
+E:\MOTAZ\Git project\WebService1\WebService1\obj\Debug\WebService1.pdb
+E:\MOTAZ\Git project\WebService1\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache

@@ -7,3 +7,12 @@ c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\
 c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.csproj.GenerateResource.Cache
 c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.exe
 c:\users\a\documents\visual studio 2015\Projects\WebService1\CallWebService\obj\Debug\CallWebService.pdb
+E:\MOTAZ\Git project\WebService1\CallWebService\bin\Debug\CallWebService.exe.config
+E:\MOTAZ\Git project\WebService1\CallWebService\bin\Debug\CallWebService.exe
+E:\MOTAZ\Git project\WebService1\CallWebService\bin\Debug\CallWebService.pdb
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.csprojResolveAssemblyReference.cache
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.Form1.resources
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.Properties.Resources.resources
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.csproj.GenerateResource.Cache
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.exe
+E:\MOTAZ\Git project\WebService1\CallWebService\obj\Debug\CallWebService.pdb
